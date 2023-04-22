@@ -28,18 +28,21 @@ You need unlimited Internet access (without group policies, corporate proxies or
 ## FAQ
 
 ## About Speaker
-Kelvin would be described as a polyglot computer programmer with over 6-years experience in the tech industry. He has aquired knowledge and skills in: C, C++, Java, Kotlin, Go, Python and specialist as a JavaScript Fullstack developer.  His quest for software developement has led him to acquire modern certifications in computing and programming incliding: Mobile Web Specialist and Associate Android Developer from Andela, Google Program. And recently NodeJS Application Development from [OpenJS](https://openjsf.org/).
+Kelvin would be described as a polyglot computer programmer with over 6-years experience in the tech industry. He has aquired knowledge and skills in: C, C++, Java, Kotlin, Go, Python and specialist as a JavaScript Fullstack developer.  His quest for software developement has led him to acquire modern certifications in computing and programming including: Mobile Web Specialist and Associate Android Developer from Andela, Google Program. And recently NodeJS Application Development from [OpenJS](https://openjsf.org/).
 He currently work as a Technical Trainer at Kisii National Polytechnic and a freelancer in crafting Mobile, Desktop and Web Applications.
 ### Learn more about Kelvin at:
+
+<img src="kelvin-profile.jpg" style="border-radius:50%;" height="100" width="100" /> <br>
+
 |Social  | Link   |
 |---|---|
 | YouTube  |[Kelvin Otundo](https://www.youtube.com/@kelvinotundo2071)   |
 | Twitter  |[@Kelvin Otundo](https://twitter.com/kelvinotundoKE)   |
 | LinkedIn  |[Kelvin Otundo](https://ke.linkedin.com/in/kelvin-otundo-b7489877)   |
 ## About GDG Kisii
+<img src="gdgkisii-logo.png" style="display:block;margin:auto" width="100%" height="auto" />
 
->The [Google Developer Group (GDG) Kisii](https://gdg.community.dev/gdg-kisii/) Chapter is for tech enthusiasts, makers, software artisans and creators who are interested in learning, sharing and getting to know more of Google developer tools & technologies.
---- 
+The [Google Developer Group (GDG) Kisii](https://gdg.community.dev/gdg-kisii/) Chapter is for tech enthusiasts, makers, software artisans and creators who are interested in learning, sharing and getting to know more of Google developer tools & technologies.
 >`Disclaimer`: GDG Kisii is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation. To learn more about the GDG program, visit [GDG](https://developers.google.com/community/gdg/).
 
 > Stay up to date – sign up for our newsletter and get the latest updates about the sessions
