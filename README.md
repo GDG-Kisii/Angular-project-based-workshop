@@ -1,4 +1,4 @@
-# Angular Workshop: From 0 to MS Paint with Project Book (Hands-on)
+# Angular Workshop: From 0 to Mastering the foundational building blocks with Project Book (Hands-on)
 GDG Kisii workshop series for Frontend developers focusing on Angular Framework., May 1st 2023 - June 1st 2023.
 > Sessions: 2-Hour Weekly Sessions
 
