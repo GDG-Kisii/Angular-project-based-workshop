@@ -12,16 +12,33 @@ GDG Kisii workshop series for Frontend developers focusing on Angular Framework.
 
 ---
 ## Description
+In this workshop we will build a Book Management Application with Angular using `components`, `services`,` dependency injection`, `forms`, `Angular modules` and `lazy loaded routes`. 
 
+> A high-performing database is crucial to any organization. Databases support the internal operations of companies and store interactions. This project will leverage Firebase and be guided on how to store and manage data.
+
+By the end of this workshop you will have built a working Angular applications you can extend into an enterprise application. You will also walk away with the source code and the course material. 
 ## Content process
 
 ## Set up instructions
-You can code along if you like. If you plan to do so, please bring your own laptop with [Google Chrome](https://www.google.com/chrome/) ([Canary](https://www.google.com/chrome/canary/)), [Git](https://git-scm.com/), [Node.js](https://nodejs.org/), and [WebStorm](https://www.jetbrains.com/webstorm/) or [Visual Studio Code](https://code.visualstudio.com/) installed.
+You can code along if you like. If you plan to do so, 
+- please bring your own laptop with [Google Chrome](https://www.google.com/chrome/) 
+- ([Canary](https://www.google.com/chrome/canary/)), 
+- [Git](https://git-scm.com/), 
+- Latest version of [Node.js](https://nodejs.org/), and 
+- Text editor of your choice [WebStorm](https://www.jetbrains.com/webstorm/) or [Visual Studio Code](https://code.visualstudio.com/) installed.
+- Create and setup [Firebase account](https://firebase.google.com/). 
 
 You need unlimited Internet access (without group policies, corporate proxies or firewalls). In case of doubt, please bring your personal notebook with you.
 
 ## Audience and requirements
->This workshop is for beginners. All requirements can be found in this GitHub repository: 
+This workshop is for beginner friendly, and or you already building Angular Projects. All requirements can be found in this GitHub repository: 
+No Prior knowledge in Angular, however you MUST have strong foundation in JavaScript ft Typescript(optional).
+
+- Internet connectivity
+
+- BYOL(Bring your own Laptop).
+
+- Commitment to learn for the 1 Month period. The program will follow incremental approach of building project.
 
 ## More sessions on the track
 
