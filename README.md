@@ -1,12 +1,12 @@
 # Angular Workshop: From 0 to Mastering the foundational building blocks with Project Book (Hands-on)
-GDG Kisii workshop series for Frontend developers focusing on Angular Framework., May 1st 2023 - June 1st 2023.
+GDG Kisii workshop series for Frontend developers focusing on Angular Framework., May 18th 2023 - June 18th 2023.
 ### Key pointers on sessions
 | Activity  | Description   |
 |---|---|
 | Duration  | 4 Weeks   |
 | Session | 2 hrs per week | 
 | Mode of delivery | Online |
-| Platform of delivery |TBD |
+| Platform of delivery |[https://www.stack-stream.com/gdg-kisii](https://www.stack-stream.com/gdg-kisii) |
 | Facilitator |Kelvin Otundo ([@Kelvin Otundo](https://twitter.com/kelvinotundoKE))|
 |   |
 
